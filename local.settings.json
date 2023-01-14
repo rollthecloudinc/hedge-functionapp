@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobs.order.Disabled": "false",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true"
+  }
+}
