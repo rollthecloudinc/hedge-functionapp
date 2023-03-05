@@ -6,7 +6,7 @@
   },
   "customHandler": {
     "description": {
-      "defaultExecutablePath": "hello_azure_world.exe"
+      "defaultExecutablePath": "azure_hedge.exe"
     }
   },
   "extensions": {
